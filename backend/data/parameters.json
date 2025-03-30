@@ -43,8 +43,8 @@
         "acronym": ["bước một", "bước một tệ"],
         "weight": -0.2
     },
-    "Phản lưới": {
-        "acronym": ["phản lưới"],
+    "Bàn thua": {
+        "acronym": ["bàn thua", "phản lưới"],
         "weight": -0.8
     }
 }

@@ -17,6 +17,7 @@ class Progress:
             self.progress = file.read().splitlines()
         if len(self.progress) < self.PROGRESS_LEN:
             self.progress = ["" for i in range(self.PROGRESS_LEN)]
+        self.progress_txt = ""
 
         with open(config.PROGRESS_TXT, "w", encoding="utf-8") as file:
             file.write("")
@@ -27,10 +28,11 @@ class Progress:
             json.dump(self.match_score, file)
     
     def update_progress(self):
+        self.progress_txt = self.match_score[config.DATE_TIME] + "|"
+        for progress in self.progress[-3:]:
+            self.progress_txt += f"{progress}|"
         with open(config.PROGRESS_TXT, 'w', encoding="utf-8") as file:
-            file.write(self.match_score[config.DATE_TIME] + "|")
-            for progress in self.progress[-3:]:
-                file.write(f"{progress}|")
+            file.write(self.progress_txt)
         
         with open(config.ALL_PROGRESS_TXT, 'w', encoding="utf-8") as file:
             for progress in self.progress:
@@ -50,6 +52,9 @@ class Progress:
         self.progress.pop()
         self.progress.insert(0, "")
 
+    def latest_progress(self):
+        return self.progress_txt
+
     def update(self, name, parameter):
         self.add(name, parameter)
 
@@ -66,19 +71,6 @@ class Progress:
         return self.match_score[config.DATE_TIME]
 
     def remove_latest(self):
-        with open(config.ALL_PROGRESS_TXT, 'r', encoding='utf-8') as file:
-            self.progress = file.read().splitlines()
-        if len(self.progress) < self.PROGRESS_LEN:
-            self.progress = ["" for i in range(self.PROGRESS_LEN)]
-    
-        with open(config.MATCH_SCORE_JSON, 'r', encoding='utf-8') as file:
-            self.match_score = json.load(file)
-        if config.DATE_TIME not in self.match_score:
-            self.match_score[config.DATE_TIME] = "0 - 0"
-        score = self.match_score[config.DATE_TIME].split(" - ")
-        self.team_score = int(score[0])
-        self.opponent_score = int(score[1])
-
         transcription = self.progress[-1]
         if ": " in transcription:
             parameter = transcription.split(": ")[1]
@@ -95,6 +87,8 @@ class Progress:
 
         self.remove()
         self.update_progress()
+
+        return transcription, self.match_score[config.DATE_TIME]
 
 # progress = Progress()
 # progress.update(None,None)

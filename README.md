@@ -3,17 +3,17 @@
 
 **Note**: Modify base path in **server.py** and **config.py**
 
-There are 3 steps run this server:
+There are 2 steps run this server:
 
 1. Run HTTP server
 ```
 python server.py
 ```
-2. Run Core: if new audio file appears, detect, collect and update audio data
-```
-python core.py
-```
-3. Run ngrok to bring the server online
+2. Run ngrok to bring the server online
 ```
 ngrok http 5000
 ```
+Now you will see a http server. (Eg: https://3fae-116-110-42-54.ngrok-free.app)
+Use it in your client to communicate with the server.
+
+For example check `client.py`

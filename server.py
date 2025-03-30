@@ -1,15 +1,12 @@
 from flask import Flask, render_template_string, request, jsonify
+import os
 import sys
-sys.path.append(r"C:\Users\lehuu\Documents\Personal_Project\Football\backend")
+sys.path.append(r"C:\Users\lehuu\Documents\Personal_Project\football-data-server\backend")
 
-from backend.audio import AudioRecorder
-from backend.progress import Progress
-from backend.update import Sheet
 from backend.config import config
+from core import Core
 
-Recorder = AudioRecorder()
-MatchProgress = Progress()
-sheet = Sheet()
+CoreHandler = Core()
 
 app = Flask(__name__)
 
@@ -44,15 +41,11 @@ def home():
 
 @app.route('/progress', methods=['GET'])
 def progress():
-    with open(config.PROGRESS_TXT, 'r', encoding='utf-8') as file:
-        first_line = file.readline()
-    return first_line, 200
+    return CoreHandler.progress.latest_progress(), 200
 
 @app.route('/remove', methods=['GET'])
 def remove():
-    MatchProgress.remove_latest()
-    sheet.match_score = MatchProgress.match_score[config.DATE_TIME]
-    sheet.update_match_core()
+    CoreHandler.remove_latest()
     return "Progress latest remove successfully", 200
 
 @app.route('/upload', methods=['POST'])
@@ -62,7 +55,18 @@ def upload_file():
     
     file = request.files['file']
     
-    return Recorder.save_audio(file)
+    # Convert .3gp to .wav
+    wav_file_path = CoreHandler.save_audio(file)
+
+    if wav_file_path is not None:
+        err_str =  CoreHandler.run(wav_file_path)
+        if err_str is not None:
+            return err_str, 400
+        else:
+            return f"File {os.path.basename(wav_file_path)} is recorded successfully", 200
+    else:
+        return "Invalid audio file", 400
+
 
 if __name__ == '__main__':
 

@@ -7,7 +7,7 @@ class Config:
         self.debug = True
 
         # Change this to your base path
-        self.BASE_PATH = r"C:\Users\lehuu\Documents\Personal_Project\Football"
+        self.BASE_PATH = r"C:\Users\lehuu\Documents\Personal_Project\football-data-server"
         
         self.MODEL = "nguyenvulebinh/wav2vec2-base-vietnamese-250h"
 

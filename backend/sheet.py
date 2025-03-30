@@ -117,5 +117,23 @@ class Sheet:
         if match_score != self.match_score:
             self.match_score = match_score
             self.update_match_core()
+    
+    def remove_latest(self, name, name_id, parameter, parameter_id, match_score):
+        if name is not None:
+            row_number = parameter_id + 1
+            column_number = name_id + 1
+            # Update self.values
+            self.values[row_number-1][column_number-1] -= 1
+            # Update the sheet
+            self.sheet.update_cell(row_number, column_number, self.values[row_number-1][column_number-1])
+            # Update the data
+            self.data[name][parameter] -= 1
+            with open(self.data_json, 'w') as file:
+                json.dump(self.data, file)
+
+        # Update match score
+        if match_score != self.match_score:
+            self.match_score = match_score
+            self.update_match_core()
 
 # update = Sheet()
