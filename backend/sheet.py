@@ -101,7 +101,7 @@ class Sheet:
         self.match_score_sheet.update_cell(self.match_score_row, 2, self.match_score)
 
     def update(self, name, name_id, parameter, parameter_id, match_score):
-        if name is not None:
+        if name is not None and parameter is not None:
             row_number = parameter_id + 1
             column_number = name_id + 1
             # Update self.values
@@ -119,7 +119,7 @@ class Sheet:
             self.update_match_core()
     
     def remove_latest(self, name, name_id, parameter, parameter_id, match_score):
-        if name is not None:
+        if name is not None and parameter is not None:
             row_number = parameter_id + 1
             column_number = name_id + 1
             # Update self.values

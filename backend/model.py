@@ -3,6 +3,7 @@ import librosa
 import torch
 from transformers import Wav2Vec2Processor, Wav2Vec2ForCTC
 from config import config
+import noisereduce as nr
 
 class Wav2Vec:
     def __init__(self):
@@ -16,7 +17,10 @@ class Wav2Vec:
 
     def detect(self, audio_file):
         # Load audio and resample to 16 kHz
-        speech, sample_rate = librosa.load(audio_file, sr=16000)  
+        speech, sample_rate = librosa.load(audio_file, sr=16000)
+
+        # Apply noise reduction
+        speech = nr.reduce_noise(y=speech, sr=sample_rate)
 
         # Skip files that are too short
         if len(speech) < 5000:

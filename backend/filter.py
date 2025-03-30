@@ -52,7 +52,10 @@ class Filter:
             else:
                 config.print(self.output, parameter + '\n')
         else:
-            config.print(self.output, name + ': ' + parameter + '\n')
+            if parameter is None:
+                config.print(self.output, name + ': ?????' + '\n')
+            else:
+                config.print(self.output, name + ': ' + parameter + '\n')
 
         return name, name_id, parameter, parameter_id
 

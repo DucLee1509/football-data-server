@@ -46,7 +46,10 @@ class Progress:
             else:
                 self.progress.append(f"{parameter}")
         else:
-            self.progress.append("?????")
+            if name is not None:
+                self.progress.append(f"{name}: ?????")
+            else:
+                self.progress.append("?????")
     
     def remove(self):
         self.progress.pop()

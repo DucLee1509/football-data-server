@@ -4,7 +4,7 @@ import glob
 import traceback
 
 import sys
-sys.path.append(r"C:\Users\lehuu\Documents\Personal_Project\Football\backend")
+sys.path.append(r"C:\Users\lehuu\Documents\Personal_Project\football-data-server\backend")
 
 from backend.config import Config
 from backend.model import Wav2Vec
