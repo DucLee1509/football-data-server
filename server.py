@@ -36,7 +36,7 @@ def home():
     return render_template_string(template)
 
 @app.route('/members', methods=['GET'])
-def progress():
+def get_members():
     member_str = ""
     for member in CoreHandler.config.members:
         member_str += member + "|"
@@ -44,7 +44,7 @@ def progress():
     return member_str, 200
 
 @app.route('/parameters', methods=['GET'])
-def progress():
+def get_parameters():
     parameters = [parameter for parameter in CoreHandler.config.parameters] 
     parameter_str = ""
     for parameter in parameters:
@@ -72,7 +72,7 @@ def upload_file():
     wav_file_path = CoreHandler.save_audio(file)
 
     if wav_file_path is not None:
-        err_str =  CoreHandler.run(wav_file_path)
+        err_str =  CoreHandler.audio(wav_file_path)
         if err_str is not None:
             return err_str, 400
         else:
@@ -80,6 +80,20 @@ def upload_file():
     else:
         return "Invalid audio file", 400
 
+@app.route('/update', methods=['POST'])
+def update():
+    data = request.get_json()
+    if not data or 'name' not in data or 'parameter' not in data:
+        return "Invalid input", 400
+    
+    name = str(data['name'])
+    parameter = str(data['parameter'])
+    text = f"{name}: {parameter}"
+    err_str =  CoreHandler.text(text)
+    if err_str is not None:
+        return err_str, 400
+    else:
+        return f"Data is recorded successfully", 200
 
 if __name__ == '__main__':
 

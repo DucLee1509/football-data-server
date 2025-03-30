@@ -48,10 +48,10 @@ class Core:
         else:
             return None
 
-    def run(self, audio_file):
+    def audio(self, audio_file):
         err_str = None
         try:
-            self.config.print(self.output, f"File: {audio_file}\n")
+            self.config.print(self.output, f"Audio file: {audio_file}\n")
             start_time = time.time()
             
             # Audio to text
@@ -79,6 +79,47 @@ class Core:
             traceback.print_exc()  # Print the full traceback for debugging
         except:
             err_str = "Error: Unknown"
+
+        if err_str is not None:
+            self.config.print(self.output, err_str)
+
+        # Remove file_path
+        # if os.path.exists(audio_file):
+        #     os.remove(audio_file)
+        
+        return err_str
+
+    def text(self, text):
+        err_str = None
+        try:
+            self.config.print(self.output, f"Text: {text}\n")
+            start_time = time.time()
+
+            # Extract name, parameter
+            name, name_id, parameter, parameter_id = self.filter.run(text)
+
+            # Update progress
+            match_score = self.progress.update(name, parameter)
+
+            # Update data
+            self.sheet.update(name, name_id, parameter, parameter_id, match_score)
+
+            execution_time = time.time() - start_time
+            self.config.print(self.output, f"Execution time: {execution_time:.2f} seconds\n\n")
+        
+        except FileNotFoundError as e:
+            err_str = f"Error: File not found: {e}"
+        except ValueError as e:
+            err_str = f"Error: Value error: {e}"
+        except Exception as e:
+            # Catch unexpected exceptions and log them
+            err_str = f"Error: An unexpected error occurred: {e}"
+            traceback.print_exc()  # Print the full traceback for debugging
+        except:
+            err_str = "Error: Unknown"
+        
+        if err_str is not None:
+            self.config.print(self.output, err_str)
 
         # Remove file_path
         # if os.path.exists(audio_file):

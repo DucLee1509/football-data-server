@@ -1,7 +1,7 @@
 # football-data-server
 ## How to use
 
-**Note**: Modify base path in **server.py** and **config.py**
+**Note**: Modify base path in **core.py** and **backend/config.py**
 
 There are 2 steps run this server:
 
@@ -16,4 +16,4 @@ ngrok http 5000
 Now you will see a http server. (Eg: https://3fae-116-110-42-54.ngrok-free.app)
 Use it in your client to communicate with the server.
 
-For example check `client.py`
+For example check `sample_client.py`
