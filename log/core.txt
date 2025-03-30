@@ -1,0 +1,720 @@
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257302_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257302_1.wav
+Execution time: 3.26 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257313_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257313_1.wav
+Execution time: 0.21 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257345_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257345_1.wav
+Execution time: 1.13 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257357_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257357_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257364_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257364_1.wav
+Execution time: 0.20 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257384_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257384_1.wav
+Execution time: 0.20 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257389_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257389_1.wav
+Execution time: 0.62 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257411_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257411_1.wav
+Execution time: 0.58 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257476_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257476_1.wav
+Execution time: 0.21 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257514_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257514_1.wav
+Execution time: 1.00 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257562_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257562_1.wav
+Execution time: 0.63 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257579_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257579_1.wav
+Execution time: 0.20 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257587_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257587_1.wav
+Execution time: 0.19 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257607_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257607_1.wav
+Execution time: 0.60 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257645_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257645_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257649_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257649_1.wav
+Execution time: 0.75 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257661_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257661_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257676_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257676_1.wav
+Execution time: 0.97 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257733_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257733_1.wav
+Execution time: 0.60 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257748_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257748_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257755_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257755_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257762_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257762_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257778_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257778_1.wav
+Execution time: 0.60 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257798_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257798_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257802_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257802_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257831_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257831_1.wav
+Execution time: 0.58 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257842_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257842_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257847_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257847_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257922_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257922_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257927_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257927_1.wav
+Execution time: 0.64 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257944_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257944_1.wav
+Execution time: 1.00 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257958_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257958_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257963_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257963_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743257979_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743257979_1.wav
+Execution time: 1.21 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258025_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258025_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258084_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258084_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258089_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258089_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258124_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258124_1.wav
+Execution time: 0.71 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258136_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258136_1.wav
+Execution time: 0.59 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258167_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258167_1.wav
+Execution time: 0.53 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258214_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258214_1.wav
+Execution time: 0.60 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258259_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258259_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258268_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258268_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258273_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258273_1.wav
+Execution time: 0.68 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258293_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258293_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258297_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258297_1.wav
+Execution time: 0.14 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258333_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258333_1.wav
+Execution time: 0.96 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258341_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258341_1.wav
+Execution time: 0.54 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258345_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258345_1.wav
+Execution time: 0.57 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258455_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258455_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258459_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258459_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258464_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258464_1.wav
+Execution time: 0.19 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258469_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258469_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258501_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258501_1.wav
+Execution time: 1.01 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258554_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258554_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258656_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258656_1.wav
+Execution time: 0.64 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258717_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258717_1.wav
+Execution time: 1.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258786_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258786_1.wav
+Execution time: 0.59 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258790_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258790_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258795_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258795_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258810_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258810_1.wav
+Execution time: 0.60 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258890_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258890_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258893_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258893_1.wav
+Execution time: 0.55 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258990_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258990_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743258994_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743258994_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259029_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259029_1.wav
+Execution time: 1.07 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259036_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259036_1.wav
+Execution time: 0.55 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259168_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259168_1.wav
+Execution time: 0.81 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259233_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259233_1.wav
+Execution time: 0.57 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259374_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259374_1.wav
+Execution time: 1.01 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259414_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259414_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259418_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259418_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259423_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259423_1.wav
+Execution time: 0.68 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259544_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259544_1.wav
+Execution time: 0.63 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259571_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259571_1.wav
+Execution time: 0.19 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259575_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259575_1.wav
+Execution time: 0.92 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259580_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259580_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259585_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259585_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259613_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259613_1.wav
+Execution time: 0.55 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259635_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259635_1.wav
+Execution time: 0.54 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259641_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259641_1.wav
+Execution time: 0.53 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259656_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259656_1.wav
+Execution time: 0.95 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259719_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259719_1.wav
+Execution time: 0.65 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259754_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259754_1.wav
+Execution time: 0.12 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259758_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259758_1.wav
+Execution time: 0.54 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259795_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259795_1.wav
+Execution time: 0.53 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259882_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259882_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259902_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259902_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259906_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259906_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743259910_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743259910_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260000_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260000_1.wav
+Execution time: 0.99 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260024_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260024_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260028_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260028_1.wav
+Execution time: 0.54 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260054_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260054_1.wav
+Execution time: 0.55 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260070_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260070_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260074_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260074_1.wav
+Execution time: 0.96 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260162_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260162_1.wav
+Execution time: 0.55 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260244_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260244_1.wav
+Execution time: 0.98 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260265_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260265_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260270_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260270_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260284_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260284_1.wav
+Execution time: 0.19 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260289_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260289_1.wav
+Execution time: 0.61 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260357_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260357_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260384_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260384_1.wav
+Execution time: 0.93 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260541_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260541_1.wav
+Execution time: 0.13 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260607_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260607_1.wav
+Execution time: 0.14 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260612_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260612_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260744_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260744_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260801_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260801_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260806_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260806_1.wav
+Execution time: 1.09 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260840_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260840_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260844_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260844_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260848_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260848_1.wav
+Execution time: 0.58 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260858_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260858_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260865_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260865_1.wav
+Execution time: 0.97 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260878_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260878_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260883_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260883_1.wav
+Execution time: 0.21 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260975_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260975_1.wav
+Execution time: 0.57 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743260979_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743260979_1.wav
+Execution time: 0.57 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261223_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261223_1.wav
+Execution time: 1.19 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261258_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261258_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261358_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261358_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261364_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261364_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261367_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261367_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261372_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261372_1.wav
+Execution time: 0.60 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261376_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261376_1.wav
+Execution time: 0.52 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261382_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261382_1.wav
+Execution time: 0.58 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261406_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261406_1.wav
+Execution time: 0.62 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261441_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261441_1.wav
+Execution time: 0.59 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261445_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261445_1.wav
+Execution time: 0.55 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261476_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261476_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261482_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261482_1.wav
+Execution time: 0.52 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261541_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261541_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261545_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261545_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261549_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261549_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261554_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261554_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261559_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261559_1.wav
+Execution time: 0.19 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261604_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261604_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261630_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261630_1.wav
+Execution time: 1.02 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261636_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261636_1.wav
+Execution time: 0.59 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261641_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261641_1.wav
+Execution time: 0.57 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261653_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261653_1.wav
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261661_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261661_1.wav
+Execution time: 0.22 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261689_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261689_1.wav
+Execution time: 0.61 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261728_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261728_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261732_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261732_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261871_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261871_1.wav
+Execution time: 0.61 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261877_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261877_1.wav
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261884_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261884_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261888_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261888_1.wav
+Execution time: 1.02 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261906_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261906_1.wav
+Execution time: 0.58 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261926_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261926_1.wav
+Execution time: 0.15 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261949_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261949_1.wav
+Execution time: 0.20 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261953_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261953_1.wav
+Execution time: 0.58 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743261968_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743261968_1.wav
+Execution time: 0.55 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262028_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262028_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262032_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262032_1.wav
+Execution time: 0.89 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262046_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262046_1.wav
+Execution time: 0.58 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262057_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262057_1.wav
+Execution time: 0.16 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262062_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262062_1.wav
+Execution time: 0.54 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262073_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262073_1.wav
+Execution time: 0.18 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262082_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262082_1.wav
+Execution time: 0.92 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262086_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262086_1.wav
+Execution time: 0.20 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262093_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262093_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262098_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262098_1.wav
+Execution time: 0.57 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262136_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262136_1.wav
+Execution time: 0.62 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262162_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262162_1.wav
+Execution time: 0.95 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262167_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262167_1.wav
+Execution time: 0.55 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262195_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262195_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262205_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262205_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262210_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262210_1.wav
+Execution time: 0.54 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262236_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262236_1.wav
+Execution time: 0.53 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262249_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262249_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262254_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262254_1.wav
+Execution time: 0.17 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262296_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262296_1.wav
+Execution time: 0.59 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262351_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262351_1.wav
+Execution time: 0.92 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262361_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262361_1.wav
+Execution time: 0.56 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262520_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262520_1.wav
+Execution time: 0.98 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262534_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262534_1.wav
+Execution time: 0.19 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262545_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262545_1.wav
+Execution time: 0.20 seconds
+
+Files: ['C:\\Users\\lehuu\\Documents\\Personal_Project\\Football\\recordings\\1743262549_1.wav']
+File: C:\Users\lehuu\Documents\Personal_Project\Football\recordings\1743262549_1.wav
+Execution time: 0.18 seconds
+

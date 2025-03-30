@@ -1,0 +1,50 @@
+{
+    "Bàn thắng": {
+        "acronym": ["bàn thắng", "ghi bàn"],
+        "weight": 1
+    },
+    "Kiến tạo": {
+        "acronym": ["kiến tạo"],
+        "weight": 0.5
+    },
+    "Cứu thua": {
+        "acronym": ["cứu thua"],
+        "weight": 0.3
+    },
+    "Thua đối mặt": {
+        "acronym": ["đối mặt", "thua đối mặt"],
+        "weight": -0.5
+    },
+    "Bắn chim": {
+        "acronym": ["bắn chim", "sút lên trời"],
+        "weight": -0.2
+    },
+    "Có cố gắng": {
+        "acronym": ["có cố gắng", "cố gắng", "nỗ lực"],
+        "weight": 0.2
+    },
+    "Cản phá": {
+        "acronym": ["cản phá", "phá bóng", "truy cản"],
+        "weight": 0.3
+    },
+    "Lỗi bàn thua": {
+        "acronym": ["sai lầm", "lỗi bàn thua"],
+        "weight": -0.8
+    },
+    "Chuyền tốt": {
+        "acronym": ["chuyền tốt", "chuyền hay"],
+        "weight": 0.2
+    },
+    "Chuyền hỏng": {
+        "acronym": ["chuyền hỏng", "chuyền lỗi", "chuyền bậy"],
+        "weight": -0.2
+    },
+    "Bước 1 tệ": {
+        "acronym": ["bước một", "bước một tệ"],
+        "weight": -0.2
+    },
+    "Phản lưới": {
+        "acronym": ["phản lưới"],
+        "weight": -0.8
+    }
+}
