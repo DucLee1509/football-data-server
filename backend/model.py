@@ -19,9 +19,9 @@ class Wav2Vec:
         speech, sample_rate = librosa.load(audio_file, sr=16000)  
 
         # Skip files that are too short
-        if len(speech) < 10:
+        if len(speech) < 5000:
             print(f"Skipping {audio_file}, too short!")
-            return
+            return ""
 
         # Tokenize
         input_values = self.processor(speech, sampling_rate=sample_rate, return_tensors="pt", padding="longest").input_values  
