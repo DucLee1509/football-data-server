@@ -1,9 +1,5 @@
 from flask import Flask, render_template_string, request, jsonify
 import os
-import sys
-sys.path.append(r"C:\Users\lehuu\Documents\Personal_Project\football-data-server\backend")
-
-from backend.config import config
 from core import Core
 
 CoreHandler = Core()
@@ -38,6 +34,14 @@ template = """
 @app.route('/')
 def home():
     return render_template_string(template)
+
+@app.route('/members', methods=['GET'])
+def progress():
+    member_str = ""
+    for member in CoreHandler.config.members:
+        member_str += member + "|"
+    member_str = member_str[:-1]
+    return member_str, 200
 
 @app.route('/progress', methods=['GET'])
 def progress():

@@ -6,7 +6,7 @@ import traceback
 import sys
 sys.path.append(r"C:\Users\lehuu\Documents\Personal_Project\Football\backend")
 
-from backend.config import config
+from backend.config import Config
 from backend.model import Wav2Vec
 from backend.filter import Filter
 from backend.sheet import Sheet
@@ -18,8 +18,9 @@ class Core:
         self.filter = Filter()
         self.sheet = Sheet()
         self.progress = Progress()
+        self.config = Config()
 
-        self.output = os.path.join(config.LOG, "core.txt")
+        self.output = os.path.join(self.config.LOG, "core.txt")
         with open(self.output, "w", encoding="utf-8") as file:
             file.write("")
     
@@ -29,17 +30,17 @@ class Core:
         
         if file and file.filename.endswith(".3gp"):
             file_name = os.path.basename(file.filename)
-            file_path = os.path.join(config.RECORDINGS, file_name)
+            file_path = os.path.join(self.config.RECORDINGS, file_name)
             file.save(file_path)
 
             timestamp = int(time.time())  # Get current time in decimal format
 
             # Ensure unique filename
             counter = 1
-            wav_file_path = os.path.join(config.RECORDINGS, f"{timestamp}_{counter}.wav")
+            wav_file_path = os.path.join(self.config.RECORDINGS, f"{timestamp}_{counter}.wav")
             while os.path.exists(wav_file_path):
                 counter += 1
-                wav_file_path = os.path.join(config.RECORDINGS, f"{timestamp}_{counter}.wav")
+                wav_file_path = os.path.join(self.config.RECORDINGS, f"{timestamp}_{counter}.wav")
 
             os.system(f'ffmpeg -i {file_path} {wav_file_path}')
             
@@ -50,7 +51,7 @@ class Core:
     def run(self, audio_file):
         err_str = None
         try:
-            config.print(self.output, f"File: {audio_file}\n")
+            self.config.print(self.output, f"File: {audio_file}\n")
             start_time = time.time()
             
             # Audio to text
@@ -66,7 +67,7 @@ class Core:
             self.sheet.update(name, name_id, parameter, parameter_id, match_score)
 
             execution_time = time.time() - start_time
-            config.print(self.output, f"Execution time: {execution_time:.2f} seconds\n\n")
+            self.config.print(self.output, f"Execution time: {execution_time:.2f} seconds\n\n")
         
         except FileNotFoundError as e:
             err_str = f"Error: File not found: {e}"
@@ -87,9 +88,9 @@ class Core:
     
     def remove_latest(self):
         transcription, match_score = self.progress.remove_latest()
-        config.print(self.output, f"Removing: {transcription}\n")
+        self.config.print(self.output, f"Removing: {transcription}\n")
         name, name_id = self.filter.get_name(transcription)
         parameter, parameter_id = self.filter.get_parameter(transcription)
-        config.print(self.output, f"name, name_id: {name}, {name_id}\n")
-        config.print(self.output, f"parameter, parameter_id: {parameter}, {parameter_id}\n")
+        self.config.print(self.output, f"name, name_id: {name}, {name_id}\n")
+        self.config.print(self.output, f"parameter, parameter_id: {parameter}, {parameter_id}\n")
         self.sheet.remove_latest(name, name_id, parameter, parameter_id, match_score)
