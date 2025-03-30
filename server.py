@@ -43,6 +43,15 @@ def progress():
     member_str = member_str[:-1]
     return member_str, 200
 
+@app.route('/parameters', methods=['GET'])
+def progress():
+    parameters = [parameter for parameter in CoreHandler.config.parameters] 
+    parameter_str = ""
+    for parameter in parameters:
+        parameter_str += parameter + "|"
+    parameter_str = parameter_str[:-1]
+    return parameter_str, 200
+
 @app.route('/progress', methods=['GET'])
 def progress():
     return CoreHandler.progress.latest_progress(), 200
