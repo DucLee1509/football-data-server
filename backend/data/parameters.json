@@ -12,11 +12,11 @@
         "weight": 0.3
     },
     "Cản phá": {
-        "acronym": ["cản phá", "phá bóng", "truy cản"],
+        "acronym": ["cản phá", "phá bóng"],
         "weight": 0.3
     },
     "Có cố gắng": {
-        "acronym": ["có cố gắng", "cố gắng", "nỗ lực"],
+        "acronym": ["nỗ lực"],
         "weight": 0.2
     },
     "Chuyền tốt": {
@@ -24,7 +24,7 @@
         "weight": 0.2
     },
     "Bắn chim": {
-        "acronym": ["bắn chim", "sút lên trời"],
+        "acronym": ["bắn chim"],
         "weight": -0.2
     },
     "Chuyền hỏng": {
@@ -40,7 +40,7 @@
         "weight": -0.5
     },
     "Lỗi bàn thua": {
-        "acronym": ["sai lầm", "lỗi bàn thua"],
+        "acronym": ["sai lầm"],
         "weight": -0.8
     },
     "Bàn thua": {

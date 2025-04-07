@@ -119,7 +119,7 @@ class Core:
             err_str = "Error: Unknown"
         
         if err_str is not None:
-            self.config.print(self.output, err_str)
+            self.config.print(self.output + '\n', err_str)
 
         # Remove file_path
         # if os.path.exists(audio_file):
@@ -130,6 +130,7 @@ class Core:
     def remove_latest(self):
         transcription, match_score = self.progress.remove_latest()
         self.config.print(self.output, f"Removing: {transcription}\n")
+        transcription = transcription.replace(":", "")
         name, name_id = self.filter.get_name(transcription)
         parameter, parameter_id = self.filter.get_parameter(transcription)
         self.config.print(self.output, f"name, name_id: {name}, {name_id}\n")

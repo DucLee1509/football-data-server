@@ -88,7 +88,7 @@ def update():
     
     name = str(data['name'])
     parameter = str(data['parameter'])
-    text = f"{name}: {parameter}"
+    text = f"{name} {parameter}"
     err_str =  CoreHandler.text(text)
     if err_str is not None:
         return err_str, 400
