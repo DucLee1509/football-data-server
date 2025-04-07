@@ -26,7 +26,7 @@ class Sheet:
                 for parameters in config.parameters:
                     self.data[name][parameters] = 0
             with open(self.data_json, 'w', encoding="utf-8") as new_file:
-                json.dump(self.data, new_file)
+                json.dump(self.data, new_file, indent=4)
         else:
             with open(self.data_json, 'r', encoding="utf-8") as file:
                 self.data = json.load(file)
@@ -111,7 +111,7 @@ class Sheet:
             # Update the data
             self.data[name][parameter] += 1
             with open(self.data_json, 'w') as file:
-                json.dump(self.data, file)
+                json.dump(self.data, file, indent=4)
 
         # Update match score
         if match_score != self.match_score:
@@ -129,7 +129,7 @@ class Sheet:
             # Update the data
             self.data[name][parameter] -= 1
             with open(self.data_json, 'w') as file:
-                json.dump(self.data, file)
+                json.dump(self.data, file, indent=4)
 
         # Update match score
         if match_score != self.match_score:

@@ -8,7 +8,7 @@ class Progress:
         if config.DATE_TIME not in self.match_score:
             self.match_score[config.DATE_TIME] = "0 - 0"
         with open(config.MATCH_SCORE_JSON, 'w') as file:
-            json.dump(self.match_score, file)
+            json.dump(self.match_score, file, indent=4)
         score = self.match_score[config.DATE_TIME].split(" - ")
         self.team_score = int(score[0])
         self.opponent_score = int(score[1])
@@ -25,7 +25,7 @@ class Progress:
     def update_match_score(self):
         self.match_score[config.DATE_TIME] = str(self.team_score) + " - " + str(self.opponent_score)
         with open(config.MATCH_SCORE_JSON, 'w') as file:
-            json.dump(self.match_score, file)
+            json.dump(self.match_score, file, indent=4)
     
     def update_progress(self):
         self.progress_txt = self.match_score[config.DATE_TIME] + "|"
