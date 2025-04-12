@@ -31,4 +31,12 @@ There are 2 steps run this server:
     $ lt --port 5000
     ```
 
+    **2.3. loophole**
+    
+    Check https://loophole.cloud/
+    ```
+    $ loophole account login
+    $ loophole http 5000 --hostname duclee
+    ```
+
 **Sample python client app**: check `sample_client.py`
